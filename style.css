@@ -1,0 +1,56 @@
+.nav-item {
+	padding: 8px;
+}
+
+.navbar-light {
+	background-color: rgba(14, 7, 7, 0.38);
+}
+
+.navbar-text {
+	font-family: 'Merriweather', serif;
+	size: 24px;
+
+	font-weight: bold;	
+}
+
+.navbar-light .navbar-text {
+	color: #ccc;	
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: #ccc;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .open>.nav-link {
+	color: #ccc;
+}
+
+body {
+	background-color: #46474cd9;
+	color: #ddd;	
+}
+
+.row {
+	margin-top: 2%;	
+}
+
+h2 {
+	font-family: 'Lato', sans-serif;
+	font-style: italic;
+	color: black;
+}
+
+.img-thumbnail {
+	border-color: black;
+}
+
+.card {
+	padding: 12px;
+/*  color: #808584*/
+	background-color: rgba(14, 7, 7, 0.38);
+}
+
+form {
+	padding: 10px;
+	background-color: rgba(14, 7, 7, 0.38);
+}
