@@ -54,3 +54,20 @@ form {
 	padding: 10px;
 	background-color: rgba(14, 7, 7, 0.38);
 }
+
+.carousel {
+	width: 100%
+	height: 100%;
+	margin: 5%;
+	padding: 25px 0;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+}
+
+.carousel-caption {
+	vertical-align: bottom;
+	color: black;
+}
